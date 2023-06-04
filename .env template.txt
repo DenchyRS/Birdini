@@ -1,0 +1,4 @@
+# .env
+DISCORD_TOKEN=
+BB_NAME=
+BB_PASS=
